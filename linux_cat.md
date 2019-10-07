@@ -2,7 +2,13 @@
 ```
 cat flag
 
+BreakALLCTF{Sobkjgd14VuIFBUtgVts}
+
+
 cat .hidden
+
+BreakALLCTF{WucLSg4cxPNYuXFF5XxJ}
+
 ```
 
 #
